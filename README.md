@@ -1,4 +1,4 @@
-Hi, I'm Nicolas 👋  
+# Hi, I'm Nicolas 👋  
 
 🎓 Computer Engineering @ Concordia University  
 📊 Interested in Quant Finance, Trading Systems, Machine Learning & Embedded Systems  
